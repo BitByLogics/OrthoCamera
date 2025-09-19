@@ -7,7 +7,8 @@
   ],
   "client": [
     "CameraMixin",
-    "GameRendererMixin"
+    "GameRendererMixin",
+    "WorldRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
